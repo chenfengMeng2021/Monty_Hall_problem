@@ -2,8 +2,7 @@
 Description:This program is designed to verify Monty Hall problem in computer.
 
 ### About Monty Hall problem:
-<img height="250" src="D:\Github programm\three_door\three_door.png" width="500"/>
-
+![](D:\Github programm\three_door\three_door.png)
 
 In the problem, you are on a game show, being asked to choose between three 
 doors. Behind each door, there is either a car or a goat. You choose a door.
