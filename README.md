@@ -2,8 +2,7 @@
 Description:This program is designed to verify Monty Hall problem in computer.
 
 ### About Monty Hall problem:
-![](.\three_door.png)
-
+<img height="250" src=".\three_door.png" width="500"/>
 In the problem, you are on a game show, being asked to choose between three 
 doors. Behind each door, there is either a car or a goat. You choose a door.
 The host, Monty Hall, picks one of the other doors, which he knows has a goat
