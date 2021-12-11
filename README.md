@@ -4,7 +4,7 @@ Description:This program is designed to verify Monty Hall problem in computer.
 ### About Monty Hall problem:
 <img height="250" src="D:\Github programm\three_door\three_door.png" width="500"/>
 
-  
+
 In the problem, you are on a game show, being asked to choose between three 
 doors. Behind each door, there is either a car or a goat. You choose a door.
 The host, Monty Hall, picks one of the other doors, which he knows has a goat
@@ -20,7 +20,12 @@ The program should take three parameters:
     * doors_number(int, default=3) -d: the number of doors are created
     * door_you_choose(int, default=1) -c: choose a door index which should less then doors number
 
+This program can be used by:
+    
+    python main.py -r 1000 -d 10 -c 1
+
 The program should return several result:
+
 
 ### Table
 
@@ -40,3 +45,6 @@ doors are created, the default is three.
 2. the attribute of class need to have: 
    * is_chosen(True and False): to define if the instance has been chosen at the first time, only one instance is True
    * car_goat(True and False):  to define if the instance has car or goat(randomly assigned to instance, only one instance can be True)
+
+
+
